@@ -4,6 +4,9 @@
 ## AIM
 To develop a Django application to store and retrieve data from a Bank database using Object Relational Mapping(ORM).
 
+## ENTITY RELATIONSHIP DIAGRAM
+![Screenshot 2024-11-16 213246](https://github.com/user-attachments/assets/c1fe90b7-99fe-44ca-abd7-d5c4b52f677e)
+
 
 ## DESIGN STEPS
 
@@ -48,7 +51,8 @@ admin.site.register(BankLoan,BankLoanAdmin)
 ```
 
 ## OUTPUT
-"C:\Users\admin\ORM\Screenshot 2024-11-13 113016.png"
+![Screenshot 2024-11-16 142006](https://github.com/user-attachments/assets/3e2cf28a-d8b7-48c2-9466-d840f5955400)
+
 
 Include the screenshot of your admin page.
 
